@@ -1,0 +1,30 @@
+.news-details {
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .news-details img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    background: var(--primary-gold);
+    color: var(--primary-black);
+    font-weight: 700;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: var(--primary-gold-dark);
+    color: var(--text-light);
+  }
+  
