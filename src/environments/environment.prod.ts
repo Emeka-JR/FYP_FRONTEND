@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost:8000/api/v1' // Update this with your production API URL
+  apiUrl: 'https://fyp-backend-1-skjv.onrender.com/' // Update this with your production API URL
 }; 
