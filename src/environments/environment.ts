@@ -1,6 +1,6 @@
 export const environment = {
   production: false,
-  apiUrl: 'https://fyp-backend-1-skjv.onrender.com/',
+  apiUrl: 'https://fyp-backend-1-skjv.onrender.com/api/v1',
   apiEndpoints: {
     auth: {
       login: '/auth/login',
